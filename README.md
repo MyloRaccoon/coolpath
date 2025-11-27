@@ -19,5 +19,4 @@ adds a path to your PATH.
 removes a path from your PATH.
 
 ## Installation
-idk build it yourself. 
-It's rust so just cargo build or something.
+There's a .exe file in the release. Idk if it will work on your machine though so gl.
